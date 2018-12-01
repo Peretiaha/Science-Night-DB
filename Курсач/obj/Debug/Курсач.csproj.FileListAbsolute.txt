@@ -1,0 +1,10 @@
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.csprojAssemblyReference.cache
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Maksy\Desktop\Универ\2-й курс\Курсач\Курсач\obj\Debug\Курсач.pdb
